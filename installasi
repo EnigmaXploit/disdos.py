@@ -1,0 +1,4 @@
+ON TERMUX 
+git clone https://github.com/EnigmaXploit/disdos.py.git
+cd disdos
+python disdos.py
